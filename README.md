@@ -1,6 +1,6 @@
 # Smart Building Surveillance System
 
-Système de surveillance de bâtiment en TypeScript illustrant 4 design patterns : **Adapter**, **Abstract Factory**, **Observer** et **Iterator**.
+Système de surveillance de bâtiment en TypeScript utilisant 4 design patterns : **Adapter**, **Abstract Factory**, **Observer** et **Iterator**.
 
 ## Lancer le projet
 
